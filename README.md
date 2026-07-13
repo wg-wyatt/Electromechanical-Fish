@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/9273b07a-2a17-41cb-9441-51ac28899b79
-
 # Bio-Inspired Robotic Fish
 
 ## Overview
@@ -144,8 +140,8 @@ The central structural spine is precision laser-cut from acrylic sheets. This pr
 
 The prototype was evaluated multiple times to optimize buoyancy and wave amplitude. **Figure 6** is a video log of a velocity test.
 
-<!-- Insert demonstration video here -->
-<video src="Media/Prototype_Demo.mp4" width="100%" controls></video>
+[<!-- Insert demonstration video here -->
+<video src="Media/Prototype_Demo.mp4" width="100%" controls></video>](https://github.com/user-attachments/assets/9273b07a-2a17-41cb-9441-51ac28899b79)
 
 ---
 
