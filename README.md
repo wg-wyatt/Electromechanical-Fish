@@ -37,11 +37,11 @@ The primary objectives of the project are to:
 
 ## Problem Description
 
-Conventional underwater vehicles primarily rely on propellers for propulsion. While effective, propellers generate noise, expose moving components, and are not optimized for maneuverability in confined or environmentally sensitive environments.
+Conventional underwater vehicles primarily rely on propellers for propulsion. While effective, propellers generate noise, expose moving components, and are not optimized for maneuverability in confined or sensitive environments.
 
 Many aquatic organisms instead produce propulsion by generating traveling waves along their bodies and fins. This method provides efficient thrust generation while enabling precise maneuvering and reduced acoustic signature.
 
-This project explores the engineering challenges associated with reproducing this biological locomotion using practical mechanical systems and accessible manufacturing techniques. The long-term objective is to develop a modular research platform capable of evaluating different propulsion mechanisms, body geometries, and manufacturing methods.
+This project explores the engineering challenges associated with reproducing this biological locomotion using practical mechanical systems and accessible manufacturing techniques. The project was developed as part of a physical prototyping class in which students designed and manufactured physical models for a speed competition.
 
 ---
 
