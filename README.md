@@ -17,8 +17,7 @@ The primary objectives of the project are to:
 - Develop a mechanical system capable of converting a single rotary input into a traveling wave along a flexible body.
 - Design a hydrodynamically efficient external body inspired by biological swimmers.
 - Create a modular internal architecture that supports rapid iteration of actuators and transmission mechanisms.
-- Investigate manufacturing techniques combining rigid and compliant materials.
-- Evaluate propulsion concepts through simulation and physical prototyping.
+- Evaluate propulsion concepts through physical prototyping.
 
 ---
 
