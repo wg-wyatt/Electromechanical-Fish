@@ -47,7 +47,7 @@ Design considerations include:
 CFD analysis is used throughout the design process to compare body geometries, visualize flow behavior, and identify opportunities for improving overall performance.
 
 <!-- Insert exterior CAD render here -->
-![Robotic Fish Final Design](Media/FullASM.png)
+![Robotic Fish Final Design](Media/FullASM_v1.png)
 
 Detailed CFD setup, mesh generation, and results are available in the analysis report:
 
