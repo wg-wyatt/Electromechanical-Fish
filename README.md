@@ -57,14 +57,16 @@ Design considerations include:
 - Modular outer shell construction
 - Ease of assembly and maintenance
 
-CFD analysis is used throughout the design process to compare body geometries, visualize flow behavior, and identify opportunities for improving overall performance.
-
-<!-- Insert exterior CAD render here -->
-![Robotic Fish Final Design](Media/FullASM_v1.png)
-
-Detailed CFD setup, mesh generation, and results are available in the analysis report:
+CFD analysis was used during the design process to compare body geometries. Specific attention was given to drag coefficients when examining mechanisms to improve swimming velocity. Detailed CFD setup, mesh generation, and results are available in the analysis report:
 
 [CFD Analysis Report](Analysis/CFD_report.pdf)
+
+The final external design was modified from the surface model with the lowest drag coefficient and modularized into three compartments. Each compartment houses the electronics, the rotary actuator, and the spine used to generate the oscillation, respectively. Below is the final exterior.
+
+
+![Robotic Fish Final Design](Media/FullASM_v1.png)
+
+
 
 ---
 
