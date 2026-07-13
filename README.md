@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="Media/FullASM_v1.png" alt="Bio-Inspired Robotic Fish Overview" width="85%">
+  <img src="Media/FullASM_v2.png" alt="Bio-Inspired Robotic Fish Overview" width="85%">
 </p>
 
 <p align="center">
