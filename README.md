@@ -20,7 +20,7 @@
 
 The Bio-Inspired Robotic Fish is an engineering project that uses undulatory propulsion (fish-like swimming) as an alternative to conventional propellers. The objective is to develop a modular robotic platform that mimics the biomechanics of carangiform swimmers using a mechanically actuated flexible body.
 
-The project combines mechanism design, computational fluid dynamics (CFD), and rapid prototyping to integrate a rotary system that converts torque to smooth, oscillatory motion within a biomimetic frame.
+The project combines mechanism design, computational fluid dynamics (CFD), and rapid prototyping to integrate a rotary system that converts torque to smooth, oscillatory motion within a biomimetic frame. The project was developed as part of a physical prototyping class in which students designed and manufactured physical models for a speed competition.
 
 ---
 
@@ -41,7 +41,7 @@ Conventional underwater vehicles primarily rely on propellers for propulsion. Wh
 
 Many aquatic organisms instead produce propulsion by generating traveling waves along their bodies and fins. This method provides efficient thrust generation while enabling precise maneuvering and reduced acoustic signature.
 
-This project explores the engineering challenges associated with reproducing this biological locomotion using practical mechanical systems and accessible manufacturing techniques. The project was developed as part of a physical prototyping class in which students designed and manufactured physical models for a speed competition.
+This project explores the engineering challenges associated with reproducing this biological locomotion using practical mechanical systems and accessible manufacturing techniques. 
 
 ---
 
