@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/9273b07a-2a17-41cb-9441-51ac28899b79
+
 # Bio-Inspired Robotic Fish
 
 ## Overview
