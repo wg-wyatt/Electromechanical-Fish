@@ -72,23 +72,44 @@ The final external design was modified from the surface model with the lowest dr
 
 ## Interior Design
 
-The internal mechanical architecture focuses on generating undulatory motion using a compact rotary actuator and transmission mechanism. The design investigates methods of converting continuous rotary motion into a controlled traveling wave capable of propagating through a compliant tail section.
+The internal mechanical architecture focuses on generating undulatory motion using a compact rotary actuator and transmission mechanism. This design uses continuous rotary motion to produce a controlled traveling wave capable of propagating through a compliant tail section.
 
 Current design investigations include:
 
-- Actuator selection
 - Motion transmission mechanisms
 - Linkage geometry optimization
 - Flexible body integration
 - Waterproof packaging strategy
-- Electronics packaging and cable routing
 
-The modular architecture allows alternative mechanisms and actuation strategies to be evaluated without redesigning the complete platform.
+**Figure 1** displays the complete internal architecture, which is divided into three functional modules:
 
-<!-- Insert exploded CAD view here -->
+- *Module 1 (Front):* Houses the main electronics and battery payload. A secure gasket seals the interface between the first and second modules.
+
+- *Module 2 (Central):* Encloses the motor gearbox and features integrated negative space for custom buoyancy weighting.
+
+- *Module 3 (Rear):* Consists of the main undulating spine enclosed in a compliant silicone sleeve.
+
+The gearbox mounts directly to the largest node of the spine, allowing the entire drive sub-assembly to slide seamlessly into the central chassis. Fastening the gearbox to the forward wall of Module 2 compresses the silicone sleeve, establishing a robust, watertight seal between the drive and tail sections.
+
 ![Internal Mechanism](Media/FullASM_expl.png)
+
+**Figure 2** illustrates the internal drive system, which is engineered to generate reciprocating motion that mimics the tandem contraction and expansion of biological fish musculature.
+
+- *Torque Transmission:* A central drive gear translates power to two counter-rotating flywheels to balance inertial forces.
+
+- *Adjustable Amplitude:* Multiple pinholes are integrated into the flywheels to allow for rapid physical experimentation with different oscillatory wave heights.
+
 ![Internal Mechanism](Media/GearBox.png)
-![Internal Mechanism](Media/GearBox_expl.png)
+
+<details>
+  <summary>🔍 <b>Exploded View</b></summary>
+  <p>
+    <img src="Media/GearBox_expl.png" alt="Exploded View">
+  </p>
+</details>
+
+**Figure 3** illustrates the spine system, which translates the rotational crank motion of the flywheels into the undulating wave profile that drives the tail fin. A flexible spine runs through five distinct nodes, which are linked to the flywheels via rigid PLA shafts. These push-pull linkages offer significantly higher structural rigidity and more precise force transmission than traditional steel cables or high-tensile ropes.
+
 ![Internal Mechanism](Media/TailModule_v2.png)
 
 ---
