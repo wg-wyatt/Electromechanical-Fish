@@ -61,7 +61,7 @@ CFD analysis was used during the design process to compare body geometries. Spec
 
 [CFD Analysis Report](Analysis/CFD_report.pdf)
 
-The final external design was modified from the surface model with the lowest drag coefficient and modularized into three compartments. Each compartment houses the electronics, the rotary actuator, and the spine used to generate the oscillation, respectively. Below is the final exterior.
+Shown in **Figure 1** is the final external design, which was modified from the surface model with the lowest drag coefficient and modularized into three compartments. Each compartment houses the electronics, the rotary actuator, and the spine used to generate the oscillation, respectively. 
 
 
 ![Robotic Fish Final Design](Media/FullASM_v1.png)
@@ -81,7 +81,7 @@ Current design investigations include:
 - Flexible body integration
 - Waterproof packaging strategy
 
-**Figure 1** displays the complete internal architecture, which is divided into three functional modules:
+**Figure 2** displays the complete internal architecture, which is divided into three functional modules:
 
 - *Module 1 (Front):* Houses the main electronics and battery payload. A secure gasket seals the interface between the first and second modules.
 
@@ -93,7 +93,7 @@ The gearbox mounts directly to the largest node of the spine, allowing the entir
 
 ![Internal Mechanism](Media/FullASM_expl.png)
 
-**Figure 2** illustrates the internal drive system, which is engineered to generate reciprocating motion that mimics the tandem contraction and expansion of biological fish musculature.
+**Figure 3** illustrates the internal drive system, which is engineered to generate reciprocating motion that mimics the tandem contraction and expansion of biological fish musculature.
 
 - *Torque Transmission:* A central drive gear translates power to two counter-rotating flywheels to balance inertial forces.
 
@@ -108,7 +108,7 @@ The gearbox mounts directly to the largest node of the spine, allowing the entir
   </p>
 </details>
 
-**Figure 3** illustrates the spine system, which translates the rotational crank motion of the flywheels into the undulating wave profile that drives the tail fin. A flexible spine runs through five distinct nodes, which are linked to the flywheels via rigid PLA shafts. These push-pull linkages offer significantly higher structural rigidity and more precise force transmission than traditional steel cables or high-tensile ropes.
+**Figure 4** illustrates the spine system, which translates the rotational crank motion of the flywheels into the undulating wave profile that drives the tail fin. A flexible spine runs through five distinct nodes, which are linked to the flywheels via rigid PLA shafts. These push-pull linkages offer significantly higher structural rigidity and more precise force transmission than traditional steel cables or high-tensile ropes.
 
 ![Internal Mechanism](Media/TailModule_v2.png)
 
@@ -130,7 +130,7 @@ Components are designed with targeted orientation optimization to maximize layer
 The central structural spine is precision laser-cut from acrylic sheets. This provides the bending stiffness required to guide the wave profile while maintaining structural rigidity.
 
 **Silicone Molding:**
-*Figure 1* illustrates the multi-part mold designed in SOLIDWORKS and 3D-printed to form the soft robotic component. A silicon epoxy is cast within the mold to produce the compliant outer casing required to seal the spine.
+**Figure 5** illustrates the multi-part mold designed in SOLIDWORKS and 3D-printed to form the soft robotic component. A silicon epoxy is cast within the mold to produce the compliant outer casing required to seal the spine.
 
 ![Internal Mechanism](Media/TailMoldASM.png)
 
@@ -138,16 +138,7 @@ The central structural spine is precision laser-cut from acrylic sheets. This pr
 
 ## Prototype Demonstration
 
-Prototype testing will evaluate the effectiveness of the propulsion mechanism and validate the relationship between the generated mechanical waveform and resulting swimming motion.
-
-Planned demonstrations include:
-
-- Dry mechanism testing
-- Undulatory motion characterization
-- Controlled swimming demonstrations
-- Performance comparisons between design iterations
-
-Prototype videos and experimental results will be added as development progresses.
+The prototype was evaluated multiple times to optimize buoyancy and wave amplitude. **Figure 6** is a video log of a velocity test.
 
 <!-- Insert demonstration video here -->
 <video src="Media/Prototype_Demo.mp4" width="100%" controls></video>
