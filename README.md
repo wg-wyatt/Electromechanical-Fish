@@ -118,18 +118,22 @@ The gearbox mounts directly to the largest node of the spine, allowing the entir
 
 The robotic fish is designed around rapid prototyping techniques that enable fast design iteration while minimizing manufacturing cost and complexity.
 
-Planned manufacturing processes include:
+### Pirmary Fabrication
 
-- **3D Printing** for structural components and enclosure features.
-- **Laser Cutting** for precision linkage components and internal mechanisms.
-- **Silicone Molding** for compliant fins and flexible body sections.
-- **Commercial Hardware** for shafts, bearings, fasteners, and drive components.
+**3D Printing:** 
+- The main chassis modules
+- The gear housings and components
+-  Modular spine nodes
+Components are designed with targeted orientation optimization to maximize layer adhesion against cyclic shear stresses generated during undulatory swimming.
 
-Combining rigid and compliant manufacturing methods allows the system to better replicate biological motion while maintaining a modular mechanical architecture.
+**Laser Cutting:**
+The central structural spine is precision laser-cut from acrylic sheets. This provides the bending stiffness required to guide the wave profile while maintaining structural rigidity.
 
-<!-- Insert manufacturing images here -->
+**Silicone Molding:**
+*Figure 1* illustrates the multi-part mold designed in SOLIDWORKS and 3D-printed to form the soft robotic component. A silicon epoxy is cast within the mold to produce the compliant outer casing required to seal the spine.
+
 ![Internal Mechanism](Media/TailMoldASM.png)
-![Internal Mechanism](Media/ShadedSectionView.png)
+
 ---
 
 ## Prototype Demonstration
@@ -147,46 +151,32 @@ Prototype videos and experimental results will be added as development progresse
 
 <!-- Insert demonstration video here -->
 <video src="Media/Prototype_Demo.mp4" width="100%" controls></video>
+
 ---
 
 ## Skills Demonstrated
 
 ### Mechanical Design
 
-- Mechanism design
 - CAD modeling and assembly design
-- Design iteration
 - Mechanical packaging
 - Biomimetic engineering
-
-### Engineering Analysis
-
+- Actuator Integration
 - Computational Fluid Dynamics (ANSYS Fluent)
-- Mechanism analysis
-- Design trade studies
 
 ### Manufacturing
 
 - Design for additive manufacturing
-- Laser-cut component design
+- Laser-cut component
 - Silicone molding
 - Rapid prototyping
-
-### Robotics
-
-- Biomimetic system design
-- Motion generation
-- Actuator integration
-- Mechanical system architecture
 
 ### Engineering Tools
 
 - SolidWorks
 - ANSYS Fluent
-- MATLAB
 - 3D Printing
 - Laser Cutting
-- Git/GitHub
 
 ---
 
