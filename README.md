@@ -3,20 +3,20 @@
 ## Overview
 
 <p align="center">
-  <img src="Media/FullASM_v1.png" alt="Bio-Inspired Robotic Fish Overview" width="85%" style="border-radius: 8px; border: 1px solid #d0d7de; box-shadow: 0px 4px 12px rgba(0,0,0,0.05);">
+  <img src="Media/FullASM_v1.png" alt="Bio-Inspired Robotic Fish Overview" width="85%">
 </p>
 
 <p align="center">
-  <details style="width: 85%; margin: 0 auto; text-align: left;">
-    <summary style="cursor: pointer; font-weight: bold; color: #0969da; text-align: center;">
-      🔍 Click to expand CAD Section & Internal Architecture View
-    </summary>
+  <details>
+    <summary>🔍 <b>Click to expand CAD Section & Internal Architecture View</b></summary>
     <br>
     <p align="center">
-      <img src="Media/ShadedSectionView.png" alt="Internal Architecture Blueprint" width="100%" style="border-radius: 8px; border: 1px solid #d0d7de;">
+      <img src="Media/ShadedSectionView.png" alt="Internal Architecture Blueprint" width="85%">
     </p>
   </details>
 </p>
+
+---
 
 The Bio-Inspired Robotic Fish is an engineering project that uses undulatory propulsion (fish-like swimming) as an alternative to conventional propellers. The objective is to develop a modular robotic platform that mimics the biomechanics of carangiform swimmers using a mechanically actuated flexible body.
 
