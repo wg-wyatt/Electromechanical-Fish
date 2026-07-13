@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Robotic Fish Final Design](Media/FullASM_v2.png)
+
 The Bio-Inspired Robotic Fish is an ongoing robotics project investigating undulatory propulsion as an alternative to conventional propeller-based underwater locomotion. The objective is to develop a modular robotic platform capable of generating fish-like swimming motion through a mechanically actuated flexible body.
 
 The project combines mechanism design, computational fluid dynamics (CFD), rapid prototyping, and soft robotics to explore how rotary motion can be transformed into efficient traveling wave motion suitable for underwater propulsion.
@@ -45,8 +47,11 @@ Design considerations include:
 CFD analysis is used throughout the design process to compare body geometries, visualize flow behavior, and identify opportunities for improving overall performance.
 
 <!-- Insert exterior CAD render here -->
+![Robotic Fish Final Design](Media/FullASM.png)
 
-<!-- Insert CFD results here -->
+Detailed CFD setup, mesh generation, and results are available in the analysis report:
+
+[CFD Analysis Report](Analysis/CFD_report.pdf)
 
 ---
 
@@ -66,8 +71,10 @@ Current design investigations include:
 The modular architecture allows alternative mechanisms and actuation strategies to be evaluated without redesigning the complete platform.
 
 <!-- Insert exploded CAD view here -->
-
-<!-- Insert mechanism close-up here -->
+![Internal Mechanism](Media/FullASM_expl.png)
+![Internal Mechanism](Media/GearBox.png)
+![Internal Mechanism](Media/GearBox_expl.png)
+![Internal Mechanism](Media/TailModule_v2.png)
 
 ---
 
@@ -85,7 +92,8 @@ Planned manufacturing processes include:
 Combining rigid and compliant manufacturing methods allows the system to better replicate biological motion while maintaining a modular mechanical architecture.
 
 <!-- Insert manufacturing images here -->
-
+![Internal Mechanism](Media/TailMoldASM.png)
+![Internal Mechanism](Media/ShadedSectionView.png)
 ---
 
 ## Prototype Demonstration
@@ -102,7 +110,7 @@ Planned demonstrations include:
 Prototype videos and experimental results will be added as development progresses.
 
 <!-- Insert demonstration video here -->
-
+<video src="Media/Prototype_Demo.mp4" width="100%" controls></video>
 ---
 
 ## Skills Demonstrated
